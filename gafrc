@@ -1,4 +1,4 @@
-(component-library "../gschem-sym")
-(component-library "../pcb-elements")
-(component-library-search "../pcb-elements")
+(component-library "gschem-sym")
+(component-library "pcb-elements")
+(component-library-search "pcb-elements")
 (source-library ".")
